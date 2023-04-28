@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "567475351696",
+    "firebase_url": "https://smartcctv-3549b-default-rtdb.firebaseio.com",
+    "project_id": "smartcctv-3549b",
+    "storage_bucket": "smartcctv-3549b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567475351696:android:3db845f6112c476811e815",
+        "android_client_info": {
+          "package_name": "com.example.smartcctv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567475351696-l8gth57qdcla7cp2obplq4smuhjsaah0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb2pRJsmOqEpMZhhPRaj2gKwSza-a-KLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567475351696-l8gth57qdcla7cp2obplq4smuhjsaah0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
